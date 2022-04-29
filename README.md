@@ -15,6 +15,9 @@
   <img src="https://komarev.com/ghpvc/?username=cody-jarrett&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
+### :man_technologist: About Me :
 
 <!--
 **cody-jarrett/cody-jarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
