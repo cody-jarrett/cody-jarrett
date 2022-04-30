@@ -17,9 +17,9 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me
 
-I'm a scientific programmer from Oregon.
+I'm a scientific programmer from Oregon
 
 - :telescope: I have been working as a Research Assistant but am looking to transition to computational science
 
