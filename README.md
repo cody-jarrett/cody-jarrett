@@ -25,7 +25,9 @@ I'm a scientific programmer from Oregon
 
 - :zap: In my free time, I read tech articles, work on projects, or ride motorcycles :motorcycle:
 
+<!--
 - :mailbox: Reach me at LinkedIn! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cody-m-jarrett/)
+-->
 
 ---
 
